@@ -51,5 +51,4 @@ def self.artist_count
       end
       song_hash
     end    
-    
 end
